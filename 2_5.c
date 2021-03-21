@@ -1,4 +1,5 @@
 /*Page 12*/
+/*Calculates fahrenheit to celsius*/
 #include <stdio.h>
 
 int main()
