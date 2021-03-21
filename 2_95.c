@@ -1,4 +1,5 @@
 /*Page 15*/
+/*Calculates fahrenheit to celsius*/
 #include <stdio.h>
 
 #define UPPER 300
